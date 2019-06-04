@@ -1,4 +1,4 @@
-# Embedded-systems-design
+# Speed and energy Optimizations
 Speed and energy optimization code for KL25z (ARM Cortex M0+)
 Various optimisation applied throughout the code.
 
